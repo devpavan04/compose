@@ -1,20 +1,8 @@
-<p align="center">
-  <img width="200" src="./client/src/assets/logo/Group 19@3x.png">
-</p>
-
-<p align="center">
-  <a href="https://0xwriter.xyz" target="_blank">Launch App</a>
-  🔏
-  <a href="https://youtu.be/ZXcJMdZ59NE" target="_blank">Watch Demo</a>
-</p>
-
-<hr />
+<h1>Compose</h1>
 
 A decentralized blogging app that facilitates writers to write user centric blog posts and to create token gated access to their content.
 
 This project was submitted at [Encode x Polygon Hackathon 2022](https://www.encode.club/polygon-hackathon)
-
-0xWriter main [contract](https://mumbai.polygonscan.com/address/0xeEDc52b142FED56c675D7157f6C7F4f91aad33b0#code) is deployed and verified on polygon mumbai testnet.
 
 ## Features
 
@@ -36,8 +24,8 @@ This project was submitted at [Encode x Polygon Hackathon 2022](https://www.enco
 Clone this project to test locally
 
 ```bash
-  git clone https://github.com/devpavan04/0xWriter.git
-  cd 0xWriter
+  git clone https://github.com/devpavan04/compose.git
+  cd compose
   npm install
 ```
 
@@ -114,7 +102,3 @@ Read more on how the above technologies are used in the app [here](https://glory
 - [Geist UI](https://geist-ui.dev/en-us)
 
 - [Remix Icons](https://remixicon.com/)
-
-## Author
-
-[@pavansoratur](https://github.com/devpavan04)
